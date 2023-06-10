@@ -1,4 +1,4 @@
-package çinzodyağı;
+package cinzodyagi;
 
 import java.util.Scanner;
 
